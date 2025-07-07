@@ -17,7 +17,7 @@ The image is compressed and ready to be flashed to a microSD card.
 
 ## How to Use
 
-1. Download the `.img.gz` image from the **Releases** section.  
+1. Download the `.img.xz` image from the **Releases** section.  
 2. Decompress the image.  
 3. Use a tool like `Etcher` to write the image to a microSD card.  
 4. Insert the microSD into the Banana Pi M2 Zero and power it on.
